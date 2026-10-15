@@ -1,6 +1,6 @@
 {
   "name": "hue",
-  "compatibility_date": "2026-10-15,
+  "compatibility_date": "2026-10-15",
   "assets": {
     "directory": "./web",
     "not_found_handling": "single-page-application"
